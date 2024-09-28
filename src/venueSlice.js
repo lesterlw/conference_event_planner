@@ -33,7 +33,7 @@ export const venueSlice = createSlice({
       name: "Small Meeting Room (Capacity:5)",
       cost: 1100,
       quantity: 0,
-    },
+    }
   
   ],
   reducers: {
